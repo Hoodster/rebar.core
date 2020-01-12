@@ -1,5 +1,5 @@
 # rebar.core
-NuGet library to support CQS pattern based project with Autofac support
+NuGet library to support CQS pattern based project with Autofac implementation
 
 ## Note
 Library is created for personal purposes but I decided that it can get useful for someone else so feel free to use.

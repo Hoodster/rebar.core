@@ -10,4 +10,4 @@ You can find library [here](https://www.nuget.org/packages/rebar.core/)
 ## Documentation
 In the repository is sample project using **rebar.core**.
 
-Full documentation is [here]().
+You can find full documentation in the project's [wiki](https://github.com/Hoodster/rebar.core/wiki).

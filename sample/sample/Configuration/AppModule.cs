@@ -11,7 +11,7 @@ namespace sample.Configuration
             var executingAssembly = GetExecutingAssembly();
 
             builder.RegisterCommandHandlers(executingAssembly);
-            builder.RegisterQueryHandlers(executingAssembly);
+            builder.RegisterQueryHandlers(executingAssembly);   
 
             //You can also register both commands and queries using
             //    builder.RegisterAll();

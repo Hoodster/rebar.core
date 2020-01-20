@@ -9,7 +9,7 @@ using sample.Queries;
 namespace sample.Controllers
 {
     [ApiController]
-    [Route("sample")]
+    [Route("[controller]")]
     public class SampleController : Controller
     {
         private ICommandDispatcher _commandDispatcher;
